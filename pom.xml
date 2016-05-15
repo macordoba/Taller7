@@ -40,7 +40,7 @@
   <artifactId>heroku-maven-plugin</artifactId>
   <version>0.5.1</version>
   <configuration>
-    <appName>taller6alvaro</appName>
+    <appName>taller7alvaro</appName>
   </configuration>
 </plugin>
 	</plugins>
